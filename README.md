@@ -28,6 +28,7 @@ The threads use the counter to add and subtract values.
     - The total is not the same in each times.
     
 1.2 - for 10,000,000
+
       |    1    |  0.030938 sec. | 
       |    2    |  0.026058 sec. |  
       |    3    |  0.027754 sec. | 
